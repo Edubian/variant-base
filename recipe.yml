@@ -2,6 +2,7 @@ rpms:
   - distrobox
   - gnome-tweaks
   - just
+  - vanilla-first-setup
 flatpaks:
   - org.mozilla.firefox
   - org.mozilla.Thunderbird
