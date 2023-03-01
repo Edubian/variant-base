@@ -3,6 +3,8 @@ rpms:
   - gnome-tweaks
   - just
   - vanilla-first-setup
+  # Needed for vanilla-first-setup
+  - vte
 flatpaks:
   - org.mozilla.firefox
   - org.mozilla.Thunderbird
