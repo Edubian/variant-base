@@ -1,3 +1,5 @@
+# REPLACED BY [stable-os/variants](https://github.com/stable-os/variants)
+
 # base
 
 [![build-ublue](https://github.com/ublue-os/base/actions/workflows/build.yml/badge.svg)](https://github.com/ublue-os/base/actions/workflows/build.yml)
